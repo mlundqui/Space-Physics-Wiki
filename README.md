@@ -3,7 +3,7 @@
 A working encyclopedia of space and ionospheric physics: concept pages, source summaries, and a
 Derivations track with step-by-step derivations, each checked symbolically or numerically.
 
-**Site:** https://mlundqui.github.io/space-physics-wiki
+**Site:** https://mlundqui.github.io/Space-Physics-Wiki
 
 The pages are maintained in an Obsidian vault and copied here with `scripts/sync_wiki.py`, which strips
 local file links before publishing. The site is built with [Quartz](https://quartz.jzhao.xyz)

@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: mlundqui.github.io/space-physics-wiki
+  baseUrl: mlundqui.github.io/Space-Physics-Wiki
   ignorePatterns:
     - private
     - templates
@@ -202,7 +202,7 @@ plugins:
     enabled: true
     options:
       links:
-        Source: https://github.com/mlundqui/space-physics-wiki
+        Source: https://github.com/mlundqui/Space-Physics-Wiki
         Built with Quartz: https://quartz.jzhao.xyz
     layout:
       position: footer
