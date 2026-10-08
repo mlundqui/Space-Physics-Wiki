@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: mlundqui.github.io/Space-Physics-Wiki
+  baseUrl: www.mikelundquist.com/Space-Physics-Wiki
   ignorePatterns:
     - private
     - templates
